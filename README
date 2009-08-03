@@ -3,9 +3,23 @@
 
 DESCRIPTION
 
-
-Digital Studio
-
 This project is still being sketched-out. Our plan is to create a fully
 functional studio using only digital components and Open Source tools.  
+
+
+Check updates on this project github wiki.
+
+
+TESTING ENVIRONMENT:
+
+Hardware List:
+ |
+ |` MIDI controller:
+ |` Mid/High end Audio controller:
+ |` A/D converters:
+  ` Linux PC:
+     * Processor: Intel Core(TM)2 Duo CPU     E4500  @ 2.20GHz
+     * RAM: 4x 1Gb DDR2 667 MHz
+     * Disks: 2x 160GB Hitachi HDS72161
+     * Debian GNU/Linux
 
